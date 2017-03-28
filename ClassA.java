@@ -7,7 +7,7 @@ Public class ClassA {
 	}
 
 	public void method2(){
-		System.out.println("method2 modified");
+		System.out.println("method2 modified in master");
 	}
 	
 	public void method3(){
