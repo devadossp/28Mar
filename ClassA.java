@@ -7,6 +7,6 @@ Public class ClassA {
 	}
 
 	public void method2(){
-		System.out.println("method2");
+		System.out.println("method2 modified in master");
 	}
 }
