@@ -7,6 +7,10 @@ Public class ClassA {
 	}
 
 	public void method2(){
-		System.out.println("method2");
+		System.out.println("method2 modified");
+	}
+	
+	public void method3(){
+		System.out.println("method3");
 	}
 }
